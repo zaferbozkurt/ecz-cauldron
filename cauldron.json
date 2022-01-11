@@ -14,7 +14,8 @@
                 ],
                 "nativeDeps": [],
                 "ernVersion": "1000.0.0"
-              }
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         },
@@ -29,7 +30,8 @@
                 ],
                 "nativeDeps": [],
                 "ernVersion": "1000.0.0"
-              }
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
