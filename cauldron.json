@@ -9,7 +9,9 @@
             {
               "name": "1.0.0",
               "container": {
-                "miniApps": [],
+                "miniApps": [
+                  "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.1"
+                ],
                 "nativeDeps": [],
                 "ernVersion": "1000.0.0"
               }
