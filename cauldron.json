@@ -8,14 +8,17 @@
           "versions": [
             {
               "name": "1.0.0",
+              "codePush": {},
               "container": {
+                "jsApiImpls": [],
                 "miniApps": [
                   "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.1"
                 ],
-                "nativeDeps": [],
-                "ernVersion": "1000.0.0"
+                "nativeDeps": []
               },
-              "containerVersion": "1.0.0"
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
             }
           ]
         },
@@ -24,14 +27,17 @@
           "versions": [
             {
               "name": "1.0.0",
+              "codePush": {},
               "container": {
+                "jsApiImpls": [],
                 "miniApps": [
                   "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.1"
                 ],
-                "nativeDeps": [],
-                "ernVersion": "1000.0.0"
+                "nativeDeps": []
               },
-              "containerVersion": "1.0.0"
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
             }
           ]
         }
