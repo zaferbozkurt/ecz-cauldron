@@ -1,1 +1,25 @@
-{}
+{
+  "nativeApps": [
+    {
+      "name": "NobetciEczane",
+      "platforms": [
+        {
+          "name": "android",
+          "versions": [
+            {
+              "name": "1.0.0"
+            }
+          ]
+        },
+        {
+          "name": "ios",
+          "versions": [
+            {
+              "name": "1.0.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
