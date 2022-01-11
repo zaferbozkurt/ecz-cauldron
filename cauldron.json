@@ -7,7 +7,15 @@
           "name": "android",
           "versions": [
             {
-              "name": "1.0.0"
+              "name": "1.0.0",
+              "container": {
+                "miniApps": [
+                ],
+                "nativeDeps": [
+                
+                ],
+                "ernVersion": "1000.0.0"
+              }
             }
           ]
         },
@@ -15,7 +23,15 @@
           "name": "ios",
           "versions": [
             {
-              "name": "1.0.0"
+              "name": "1.0.0",
+              "container": {
+                "miniApps": [
+                ],
+                "nativeDeps": [
+                
+                ],
+                "ernVersion": "1000.0.0"
+              }
             }
           ]
         }
