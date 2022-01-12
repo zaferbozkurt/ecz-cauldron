@@ -4,6 +4,23 @@
       "name": "NobetciEczane",
       "platforms": [
         {
+          "name": "android",
+          "versions": [
+            {
+              "name": "3.0.0",
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
+        },
+        {
           "name": "ios",
           "versions": [
             {
