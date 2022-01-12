@@ -1860,10 +1860,18 @@ easy-stack@^1.0.1:
   resolved "https://registry.yarnpkg.com/easy-stack/-/easy-stack-1.0.1.tgz#8afe4264626988cabb11f3c704ccd0c835411066"
   integrity sha512-wK2sCs4feiiJeFXn3zvY0p41mdU5VUgbgs1rNsc/y5ngFUijdWd+iIN8eoyuZHKB8xN6BL4PdWmzqFmxNg6V2w==
 
-"ecz-miniapp@https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.1":
-  version "0.0.1"
-  resolved "https://github.com/zaferbozkurt/ecz-miniapp.git#de6ab86913e73ad1c26aeddb7c3466dacc288c16"
+ecz-api@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/ecz-api/-/ecz-api-1.2.0.tgz#038b0adb7893cdb0415bd615aa00f80fada8a484"
+  integrity sha512-n6QhzoG2F39Vsw0BrgAP7yKVSA63lU3W45pKto+/Kh6YnCbrQOKtToHDkt+YzR5QwhVjMr+KEjjGu65alIJ7AA==
   dependencies:
+    react-native-electrode-bridge "1.5.x"
+
+"ecz-miniapp@https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.3":
+  version "0.0.1"
+  resolved "https://github.com/zaferbozkurt/ecz-miniapp.git#3b528e1111674943e07141540350e30abc2b969f"
+  dependencies:
+    ecz-api "1.2.0"
     ern-navigation "1.2.4"
     react "17.0.2"
     react-native "0.66.4"
