@@ -11,12 +11,23 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.1"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@1.6.10",
+                  "ernnavigation-api@1.3.0",
+                  "react-native-electrode-bridge@1.5.27",
+                  "react-native@0.66.4"
+                ],
+                "ernVersion": "0.49.0"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "a640aa56-46a9-43bd-9075-e52a726d2736"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         },
