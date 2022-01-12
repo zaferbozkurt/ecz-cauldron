@@ -48,7 +48,7 @@
                   "react-native-electrode-bridge@1.5.27",
                   "react-native@0.66.4"
                 ],
-                "ernVersion": "1000.0.0"
+                "ernVersion": "0.49.0"
               },
               "isReleased": false,
               "nativeDeps": [],
