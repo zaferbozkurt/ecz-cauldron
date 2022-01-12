@@ -1,4 +1,27 @@
 {
-  "nativeApps": [],
+  "nativeApps": [
+    {
+      "name": "NobetciEczane",
+      "platforms": [
+        {
+          "name": "ios",
+          "versions": [
+            {
+              "name": "3.0.0",
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "schemaVersion": "3.0.0"
 }
