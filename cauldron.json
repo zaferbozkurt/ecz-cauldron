@@ -12,7 +12,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.6"
+                  "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.7"
                 ],
                 "nativeDeps": [
                   "ernnavigation-api-impl-native@1.6.10",
@@ -40,7 +40,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.6"
+                  "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.7"
                 ],
                 "nativeDeps": [
                   "ecz-api@1.2.0",
