@@ -1903,9 +1903,9 @@ ecz-api@1.2.0:
   dependencies:
     react-native-electrode-bridge "1.5.x"
 
-"ecz-miniapp@https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.6":
-  version "0.0.6"
-  resolved "https://github.com/zaferbozkurt/ecz-miniapp.git#3e8e40ac879c89f4874842f53f65784a8a26bc17"
+"ecz-miniapp@https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.7":
+  version "0.0.7"
+  resolved "https://github.com/zaferbozkurt/ecz-miniapp.git#aba99e3349650f11f98ff8298d092375aeaf11ea"
   dependencies:
     ecz-api "1.2.0"
     ern-navigation "1.2.4"
