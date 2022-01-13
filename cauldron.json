@@ -40,7 +40,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://github.com/zaferbozkurt/movies-reloaded-miniapp.git#0.0.1"
+                  "https://github.com/zaferbozkurt/ecz-miniapp.git#0.0.7"
                 ],
                 "nativeDeps": [
                   "ecz-api@1.2.0",
